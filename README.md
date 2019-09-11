@@ -6,8 +6,8 @@ Source: https://www.youtube.com/watch?v=Ke90Tje7VS0
 To run this app type the following in terminal:
 
 ```
-create-react-app app_name
-cd app_name
+create-react-app shopping-cart-app
+cd shopping-cart-app
 npm start
 ```
 
