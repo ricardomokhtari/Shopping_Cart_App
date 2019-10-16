@@ -1,4 +1,6 @@
 # Shopping Cart App
+
+![Image of App](https://github.com/ricardomokhtari/Shopping_Cart_App/tree/master/Images)
 A basic shopping cart app UI that I created using React following Mosh Hamedani's React crash course, with some modifications.
 
 Source: https://www.youtube.com/watch?v=Ke90Tje7VS0
