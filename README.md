@@ -3,7 +3,7 @@
 ![Image of App](https://github.com/ricardomokhtari/Shopping_Cart_App/blob/master/Images/App.png)
 
 
-A basic shopping cart app UI that I created using React following Mosh Hamedani's React crash course, with some modifications.
+A basic shopping cart app UI that I created using React following Mosh Hamedani's React crash course, with some (mostly aesthetic) modifications.
 
 Source: https://www.youtube.com/watch?v=Ke90Tje7VS0
 
